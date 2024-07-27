@@ -1,5 +1,5 @@
 RENCANA SETELAH LULUS
 - Mendaftar program pascasarjana
-  * Bisnis dan Manajemen
+  * Bisnis dan Manajemen (Jurusan Bisnis)
 - Mencari pekerjaan sampingan
-  * Web developer (Fullstack)
+  * Web developer (Backend Developer)
